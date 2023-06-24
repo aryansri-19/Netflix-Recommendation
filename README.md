@@ -3,8 +3,11 @@ A recommendation system using Linear Kernel method to suggest netflix movies and
 
 Uses Python Libraries: pandas and scikit-learn for preprocessing dataset and determining the similarity between the media.
 use commands
+```
 pip install scikit-learn
 pip install pandas
+
+```
 
 Uses random module for selecting media randomly.
 
